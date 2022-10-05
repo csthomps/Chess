@@ -1,0 +1,8 @@
+My first project with python
+
+Followed this tutorial series to an extent:https://youtu.be/EnYui0e73Rs
+
+Is pretty good Chess implementation, there are minor bugs with the knights I couldn't be bothered to figure out
+
+Uses negamax Algorithm with Alpha Beta pruning
+Not very optimized beyond that
